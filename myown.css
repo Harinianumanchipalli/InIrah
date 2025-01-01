@@ -1,0 +1,101 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+    /* border: 1px solid black;*/
+} 
+.navbar{
+    background-color:black;
+}
+.navbar-brand{
+    width: 10%;
+}
+.nav-link {
+    color:white !important;
+    font-weight:bold ;
+    font-size: 17px;
+}
+/* home section */
+.bgimg{
+    background-image: url("./image/kj.jpg");
+    width:100vw;
+
+    height:80vh ;
+    background-size:cover ;
+    background-position:center;
+}
+
+.heading{
+    color:#c2185b;
+    font-family:'Times New Roman', Times, serif;
+    padding-top: 2%;
+    text-shadow:1px 2px 3px black ;
+    font-size: 70px;
+}
+.hbtn{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+/* payment */
+.im{
+    padding-left: 20%;
+}
+.form-label{
+    color: green;
+    font-weight: bold;
+}
+#basic-addon1{
+    background-color: #06465f;
+    color:white;
+    font-weight: bold;
+    border: none;
+}
+#basic-addon1:hover{
+    background-color: white;
+    color: blueviolet;
+    border: 1px solid palevioletred;
+}
+/* footer */
+.footer{
+    background-color: black;
+    color: beige;
+}
+.fcontent h6{
+     color:gold;
+}
+.last{
+    padding-top: 10%;
+}
+.card-body{
+   background-color: black;
+}
+.card-title{
+    color: gold;
+}
+.card-text{
+    color:beige;
+}
+.img-fluid{
+    background-color: black;
+}
+.iim{
+    background-color: aliceblue;
+    padding-top: 20%;
+}
+/* heading colors */
+.over{
+    color:#c2185b
+}
+.brief{
+    color: #c2185b;
+}
+.sihe{
+    color:green;
+}
+/* mani sihea */
+.expand{
+    color:grey;
+    
+}
+.ex{
+    color: #c2185b;
+
+}
